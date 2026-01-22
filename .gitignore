@@ -1,0 +1,5 @@
+assets/
+routes/
+node_modules/
+vendor/
+pages
